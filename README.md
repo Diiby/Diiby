@@ -72,7 +72,7 @@
 
 <br/><br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
